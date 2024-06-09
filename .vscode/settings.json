@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "code.h": "c",
+        "stdio.h": "c",
+        "initfnc.h": "c",
+        "math.h": "c",
+        "cmath": "c",
+        "update.h": "c"
+    }
+}
